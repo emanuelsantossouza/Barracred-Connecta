@@ -1,16 +1,7 @@
 programa
-{
+{	
 	inclua biblioteca Util --> u
-	
-	inteiro fileiras[4][15] = { 
-		{1,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
-		{1,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
-		{1,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
-		{1,0,0,0,0,0,0,0,0,0,0,0,0,0,0} 
-	}
 
-	inteiro totalPoltronasVendidas, totalPoltronasVazias, numAssentoUsuario
-	caracter respotasUsuario
 	/*
 	 O cinema possui uma sala com 4 fileiras nomeadas como A, B, C e D; cada fileira tem 15 poltronas. Deve-se exibir uma menu com as opções: 
 		1 - Vender poltrona
@@ -18,35 +9,31 @@ programa
 		3 - Quantidade de poltronas vazias
 		4 - Quantidade de poltronas vendidas
 	*/
+
+	inteiro fileiras[4][15], totalPoltronasVendidas, totalPoltronasVazias, numAssentoUsuario, numUsuario
 	
+	caracter respotasUsuario
+	cadeia fileira[4]= {"A", "B", "C", "D"}
 	
 	funcao inicio()
 	{	
-		inteiro numFileiraA = (u.sorteia(0, 15))
-		inteiro numFileiraB = (u.sorteia(0, 15))
-		inteiro numFileiraC = (u.sorteia(0, 15))
-		inteiro numFileiraD = (u.sorteia(0, 15))
+		inteiro numFileiraAleatorioA = (u.sorteia(0, 15))
+		inteiro numFileiraAleatorioB = (u.sorteia(0, 15))
+		inteiro numFileiraAleatorioC = (u.sorteia(0, 15))
+		inteiro numFileiraAleatorioD = (u.sorteia(0, 15))
 		
-		prencherAssentosAleatoriamente(numFileiraA, 0)
-		prencherAssentosAleatoriamente(numFileiraB, 1)
-		prencherAssentosAleatoriamente(numFileiraC, 2)
-		prencherAssentosAleatoriamente(numFileiraD, 3)
-
-
+		prencherAssentosAleatoriamente(numFileiraAleatorioA, 0)
+		prencherAssentosAleatoriamente(numFileiraAleatorioB, 1)
+		prencherAssentosAleatoriamente(numFileiraAleatorioC, 2)
+		prencherAssentosAleatoriamente(numFileiraAleatorioD, 3)
 		
 		escreva("Seja Bem-Vindo ao Cinema!\n")
-		inteiro numUsuario
-		
-		
+	
 		faca{
 			totalPoltronasVendidas = 0
 			totalPoltronasVazias = 0
-			inicioSalaCimema()
+			conteTotalDeCadeirasVaziasCompradas()
 		
-			
-			
-			
-			
 			escreva("\n---- Menu ------\n")
 			escreva("0 - Para encerrar o menu\n1 - Vender poltrona\n2 - Exibir Sala\n3 - Quantidade de poltronas vazias\n4 - Quantidade de poltronas vendidas\n")
 			escreva("Por favor informe o numero equivalente ao tipo de serviço que você deseja: \n")
@@ -70,27 +57,60 @@ programa
 			}
 		}enquanto(numUsuario != 0)
 	}
-	
-	funcao exibirSala(){
-		escreva("Fileira A: ")
-		para(inteiro i=0; i< 15; i++){
-			escreva(" [",fileiras[0][i],"] ")
-		}
 
-		escreva("\nFileira B: ")
-		para(inteiro i=0; i< 15; i++){
-			escreva(" [",fileiras[1][i],"] ")
+	funcao venderPoltrona(){
+		escreva("Qual fileira você deseja sentar-se?\nFileira A, B, C, D ou pressione 2 para ver a sala: ")
+		leia(respotasUsuario)	
+			escreva("Qual sera o numero do assento desejado entre 0 até 15: ")
+			leia(numAssentoUsuario)
+		escolha (respotasUsuario){
+			caso 'a':	
+				percorraALinhaMatriz(fileiras, numAssentoUsuario, 0)
+			pare	
+			caso 'b':
+				percorraALinhaMatriz(fileiras, numAssentoUsuario, 1)
+			pare
+			caso 'c':
+				percorraALinhaMatriz(fileiras, numAssentoUsuario, 2)
+			pare
+			caso 'd':
+				percorraALinhaMatriz(fileiras, numAssentoUsuario, 3)
+			pare
+
+			caso contrario:
+			escreva("----- Ocorreu um erro! ----- \n")
+			escreva("Por favor informe um o assento que a fileira novamente: \n")
+			leia(respotasUsuario)			
+			escreva("Por favor o número do assento, entre 1 até 15: \n")
+			leia(numAssentoUsuario)
 		}
-		escreva("\nFileira C: ")
-		para(inteiro i=0; i< 15; i++){
-			escreva(" [",fileiras[2][i],"] ")
-		}
-		escreva("\nFileira D: ")
-		para(inteiro i=0; i< 15; i++){
-			escreva(" [",fileiras[3][i],"] ")
-		}
-		escreva("\n                             ------- Tela -----------\n0 = Poltrona vazia\n1 = Poltrona oculpada\n")
+		
 	}
+
+	funcao percorraALinhaMatriz(inteiro &matrizSeraPercorrida[][], inteiro numUsuarioParada,inteiro colunaDaMatriz){
+			para(inteiro i =0;i< u.numero_linhas(fileiras);i++){
+				se(i == numUsuarioParada)
+					se(matrizSeraPercorrida[colunaDaMatriz][i] == 0){
+						matrizSeraPercorrida[colunaDaMatriz][i-1] = 1
+						escreva("\n----Compra realizada com sucesso!-----\n")
+					} senao {
+						escreva("\n----O assento esta ocupado por outra pessoa, escolha outro por favor!-----\n")
+				} 
+			}
+	}
+
+	funcao exibirSala(){
+			inteiro numEquivalenteAFileira =0
+			 
+			para(inteiro colunas=0; colunas < 4; colunas++){
+				escreva("\nFileira ", fileira[numEquivalenteAFileira])
+					para(inteiro linhas=0; linhas < 15; linhas++){
+						escreva(" [",fileiras[colunas][linhas],"] ")
+					}
+					numEquivalenteAFileira++
+			}
+			escreva("\n                             ------- Tela -----------\n0 = Poltrona vazia\n1 = Poltrona oculpada\n")
+		}
 
 	funcao poltronasVendidas(){
 		escreva("O total de poltronas vendidas é: ", totalPoltronasVendidas)
@@ -100,124 +120,32 @@ programa
 		escreva("A quantidade de poltrona vazias é: ", totalPoltronasVazias)
 	}
 
-	funcao venderPoltrona(){
-		escreva("Qual fileira você deseja sentar-se?\nFileira A, B, C, D ou pressione 2 para ver a sala: ")
-		leia(respotasUsuario)	
-
-		escolha (respotasUsuario){
-			caso 'a':
-				escreva("Qual sera o numero do assento desejado entre 0 até 15: ")
-				leia(numAssentoUsuario)
-
-				comprarFileira(respotasUsuario, numAssentoUsuario, fileiras)
-			pare	
-			caso 'b':
-				escreva("Qual sera o numero do assento desejado entre 0 até 15: ")
-				leia(numAssentoUsuario)
-
-				comprarFileira(respotasUsuario, numAssentoUsuario, fileiras)
-			pare
-			caso 'c':
-				escreva("Qual sera o numero do assento desejado entre 0 até 15: ")
-				leia(numAssentoUsuario)
-
-				comprarFileira(respotasUsuario, numAssentoUsuario, fileiras)
-			pare
-			caso 'd':
-				escreva("Qual sera o numero do assento desejado entre 0 até 15: ")
-				leia(numAssentoUsuario)
-
-				comprarFileira(respotasUsuario, numAssentoUsuario, fileiras)
-			pare
-
-			caso '2':
-				
-			pare
-		}
+	funcao conteTotalDeCadeirasVaziasCompradas(){
 		
-	}
-
-	funcao comprarFileira(caracter fileiraUsuario, inteiro entradaNumAssentoUsuario, inteiro &matriz[][]){
-		
-		se(fileiraUsuario == 'a'){
-			percorraAMatriz(matriz, entradaNumAssentoUsuario,0)
-				
-		}senao se(fileiraUsuario == 'b'){
+		para(inteiro colunas =0; colunas< 4; colunas++){
+			para(inteiro linhas=0; linhas < 15; linhas++){
+				se(fileiras[colunas][linhas] == 1){
+					totalPoltronasVendidas++
+				} senao{
+					totalPoltronasVazias++
+				}	
 			
-			percorraAMatriz(matriz, entradaNumAssentoUsuario,1)
-		}senao se(fileiraUsuario == 'c'){
-		
-			percorraAMatriz(matriz, entradaNumAssentoUsuario,2)
-		}senao{
-			percorraAMatriz(matriz, entradaNumAssentoUsuario,3)
-			
+			}	
 		}
 	}
 
-	funcao inicioSalaCimema(){
-		
-		para(inteiro i=0; i< 15; i++){
-			se(fileiras[0][i] == 1){
-				totalPoltronasVendidas++
-			} senao{
-				totalPoltronasVazias++
+	funcao prencherAssentosAleatoriamente(inteiro numAleatorioAssentoOculpados, inteiro numColuna){
+		para(inteiro linhas=0; linhas< numAleatorioAssentoOculpados;linhas++){
+				fileiras[numColuna][linhas] = 1	
 			}
 		}
-		para(inteiro i=0; i< 15; i++){
-			se(fileiras[1][i] == 1){
-				totalPoltronasVendidas++
-			} senao{
-				totalPoltronasVazias++
-			}
-		}
-		
-		para(inteiro i=0; i< 15; i++){
-			se(fileiras[2][i] == 1){
-				totalPoltronasVendidas++
-			} senao{
-				totalPoltronasVazias++
-			}
-		}
-		
-		para(inteiro i=0; i< 15; i++){
-			se(fileiras[3][i] == 1){
-				totalPoltronasVendidas++
-			} senao{
-				totalPoltronasVazias++
-			}
-		}
-	}
-
-	funcao prencherAssentosAleatoriamente(inteiro numAleatorioAssentoOculpados, inteiro colunaMatriz){
-		para(inteiro i=0; i< numAleatorioAssentoOculpados;i++){
-			fileiras[colunaMatriz][i] = 1
-		}
-	}
-
-
-	funcao percorraAMatriz(inteiro &matrizSeraPercorrida[][], inteiro numUsuarioParada,inteiro colunaDaMatriz){
-			para(inteiro i =0;i<15;i++){
-				se(i == numUsuarioParada)
-					se(matrizSeraPercorrida[colunaDaMatriz][i] == 0){
-						matrizSeraPercorrida[colunaDaMatriz][i] = 1
-						escreva("\n----Compra realizada com sucesso!-----\n")
-					} senao {
-						escreva("\n----O assento esta ocupado por outra pessoa, escolha outro por favor!-----\n")
-				} 
-			}
-
-					
-	}
-
 }
-
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 971; 
- * @DOBRAMENTO-CODIGO = [4, 13, 73, 94, 98, 102, 150, 139, 156, 190, 197];
+ * @POSICAO-CURSOR = 4190; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
