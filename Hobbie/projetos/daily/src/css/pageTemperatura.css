@@ -1,0 +1,28 @@
+body{
+    background: #202020;
+}
+
+.menuTemperatura{
+    display: flex;
+    flex-direction: row;
+    background: #434343;
+    border-radius: 40px;
+    height: 35px;
+}
+
+.menuTemperaturaAtive{
+    background: white;
+    padding: 5px 20px;
+    border-radius: 40px;
+}
+
+.menuTemperatura > h2 {
+    margin: auto;
+}
+
+.menuTemperatura
+
+h2{
+    text-align: center;
+    font-size: 1.2rem;   
+}

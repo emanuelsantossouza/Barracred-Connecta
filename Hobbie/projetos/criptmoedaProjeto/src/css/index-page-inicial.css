@@ -1,0 +1,22 @@
+section{
+    margin-top: 250px;
+}
+
+h1{
+    color: white;
+    font-size: 60px;
+    padding-left: 50px;
+    letter-spacing: 4px;
+    line-height: 1.3;
+}
+
+
+footer{
+    width: 320px;
+    margin: auto;
+}
+
+footer > img{
+    width: 100%;
+    height: 100%;
+}
