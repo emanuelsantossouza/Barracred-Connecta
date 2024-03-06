@@ -1,0 +1,6 @@
+codigo desafio gallo 
+- select eleicaoCandidato.eleicaoCargoId, Candidato.nome as 'Nome do Candidato', cargo.nome as 'Nome do Cargo', Partido.nome as 'Nome do Partido' from eleicaocandidato 
+inner join eleicaocargo on eleicaoCargo.CargoId = EleicaoCargoId
+inner join cargo on cargo.id = eleicaoCargoId
+inner join candidato on EleicaoCandidato.CandidatoId = Candidato.id
+inner join partido on partido.id = Candidato.PartidoId;
