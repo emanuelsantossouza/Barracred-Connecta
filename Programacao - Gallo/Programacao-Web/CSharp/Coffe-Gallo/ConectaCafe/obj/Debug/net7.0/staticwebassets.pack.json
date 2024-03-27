@@ -1,0 +1,989 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ConectaCafe.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ConectaCafe.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\css\\bootstrap.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\css\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\css\\jquery.DonutWidget.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.DonutWidget.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\css\\jquerysctipttop.css",
+      "PackagePath": "staticwebassets\\css\\jquerysctipttop.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\css\\linearicons.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\css\\main.map",
+      "PackagePath": "staticwebassets\\css\\main.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\css\\theme\\pages.css",
+      "PackagePath": "staticwebassets\\css\\theme\\pages.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\b1.jpg",
+      "PackagePath": "staticwebassets\\img\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\b2.jpg",
+      "PackagePath": "staticwebassets\\img\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\footer-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\header-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\header-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\menu-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\menu-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\play-icon.png",
+      "PackagePath": "staticwebassets\\img\\play-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\r1.png",
+      "PackagePath": "staticwebassets\\img\\r1.png"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\r2.png",
+      "PackagePath": "staticwebassets\\img\\r2.png"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\signature.png",
+      "PackagePath": "staticwebassets\\img\\signature.png"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\img\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\video-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\js\\easing.min.js",
+      "PackagePath": "staticwebassets\\js\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\js\\hoverIntent.js",
+      "PackagePath": "staticwebassets\\js\\hoverIntent.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\js\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\js\\slick.js",
+      "PackagePath": "staticwebassets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\js\\superfish.js",
+      "PackagePath": "staticwebassets\\js\\superfish.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\js\\superfish.min.js",
+      "PackagePath": "staticwebassets\\js\\superfish.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_navbar-align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_navbar-align.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\scss\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\theme\\.DS_Store",
+      "PackagePath": "staticwebassets\\scss\\theme\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\theme\\_elements.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\theme\\_flexbox.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_flexbox.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\theme\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\theme\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\theme\\_home.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_home.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\theme\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\theme\\_reset.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\alunobcc12\\Desktop\\Emanuel\\Aulas\\Programacao - Gallo\\Programacao-Web\\CSharp\\Coffe-Gallo\\ConectaCafe\\wwwroot\\scss\\theme\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_variables.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ConectaCafe.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ConectaCafe.props",
+      "PackagePath": "build\\ConectaCafe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ConectaCafe.props",
+      "PackagePath": "buildMultiTargeting\\ConectaCafe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ConectaCafe.props",
+      "PackagePath": "buildTransitive\\ConectaCafe.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

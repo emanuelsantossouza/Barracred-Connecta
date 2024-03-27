@@ -1,0 +1,102 @@
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\bin\Debug\net7.0\appsettings.json
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\bin\Debug\net7.0\ConectaCafe.staticwebassets.runtime.json
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\bin\Debug\net7.0\ConectaCafe.exe
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\bin\Debug\net7.0\ConectaCafe.deps.json
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\bin\Debug\net7.0\ConectaCafe.runtimeconfig.json
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\bin\Debug\net7.0\ConectaCafe.dll
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\bin\Debug\net7.0\ConectaCafe.pdb
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\ConectaCafe.csproj.AssemblyReference.cache
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\ConectaCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\ConectaCafe.AssemblyInfoInputs.cache
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\ConectaCafe.AssemblyInfo.cs
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\ConectaCafe.csproj.CoreCompileInputs.cache
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\ConectaCafe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\ConectaCafe.RazorAssemblyInfo.cache
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\ConectaCafe.RazorAssemblyInfo.cs
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\staticwebassets\msbuild.ConectaCafe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\staticwebassets\msbuild.build.ConectaCafe.props
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ConectaCafe.props
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ConectaCafe.props
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\scopedcss\bundle\ConectaCafe.styles.css
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\scopedcss\projectbundle\ConectaCafe.bundle.scp.css
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\ConectaCafe.dll
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\refint\ConectaCafe.dll
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\ConectaCafe.pdb
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\ConectaCafe.genruntimeconfig.cache
+C:\Users\alunobcc02\Desktop\Emanuel\ConectaCafe\obj\Debug\net7.0\ref\ConectaCafe.dll
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\bin\Debug\net7.0\appsettings.json
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\bin\Debug\net7.0\ConectaCafe.staticwebassets.runtime.json
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\bin\Debug\net7.0\ConectaCafe.exe
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\bin\Debug\net7.0\ConectaCafe.deps.json
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\bin\Debug\net7.0\ConectaCafe.runtimeconfig.json
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\bin\Debug\net7.0\ConectaCafe.dll
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\bin\Debug\net7.0\ConectaCafe.pdb
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\ConectaCafe.csproj.AssemblyReference.cache
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\ConectaCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\ConectaCafe.AssemblyInfoInputs.cache
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\ConectaCafe.AssemblyInfo.cs
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\ConectaCafe.csproj.CoreCompileInputs.cache
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\ConectaCafe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\ConectaCafe.RazorAssemblyInfo.cache
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\ConectaCafe.RazorAssemblyInfo.cs
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\staticwebassets\msbuild.ConectaCafe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\staticwebassets\msbuild.build.ConectaCafe.props
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ConectaCafe.props
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ConectaCafe.props
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\scopedcss\bundle\ConectaCafe.styles.css
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\scopedcss\projectbundle\ConectaCafe.bundle.scp.css
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\ConectaCafe.dll
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\refint\ConectaCafe.dll
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\ConectaCafe.pdb
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\ConectaCafe.genruntimeconfig.cache
+C:\Users\alunobcc02\Desktop\Emanuel\ManelFe\ConectaCafe\obj\Debug\net7.0\ref\ConectaCafe.dll
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\bin\Debug\net7.0\appsettings.json
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\bin\Debug\net7.0\ConectaCafe.staticwebassets.runtime.json
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\bin\Debug\net7.0\ConectaCafe.exe
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\bin\Debug\net7.0\ConectaCafe.deps.json
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\bin\Debug\net7.0\ConectaCafe.runtimeconfig.json
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\bin\Debug\net7.0\ConectaCafe.dll
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\bin\Debug\net7.0\ConectaCafe.pdb
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\bin\Debug\net7.0\Humanizer.dll
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\ConectaCafe.csproj.AssemblyReference.cache
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\ConectaCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\ConectaCafe.AssemblyInfoInputs.cache
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\ConectaCafe.AssemblyInfo.cs
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\ConectaCafe.csproj.CoreCompileInputs.cache
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\ConectaCafe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\ConectaCafe.RazorAssemblyInfo.cache
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\ConectaCafe.RazorAssemblyInfo.cs
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\staticwebassets\msbuild.ConectaCafe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\staticwebassets\msbuild.build.ConectaCafe.props
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ConectaCafe.props
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ConectaCafe.props
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\scopedcss\bundle\ConectaCafe.styles.css
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\scopedcss\projectbundle\ConectaCafe.bundle.scp.css
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\ConectaCafe.csproj.CopyComplete
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\ConectaCafe.dll
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\refint\ConectaCafe.dll
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\ConectaCafe.pdb
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\ConectaCafe.genruntimeconfig.cache
+C:\Users\alunobcc12\Desktop\Emanuel\Aulas\Programacao - Gallo\Programacao-Web\CSharp\Coffe-Gallo\ConectaCafe\obj\Debug\net7.0\ref\ConectaCafe.dll
